@@ -1,4 +1,4 @@
-# `Go Scream`
+# Al News
 
 A Go app that posts random AI headlines (with photos) to Bluesky, but changes them to Al. [See it in action](https://bsky.app/profile/al-news.plutor.org)
 
