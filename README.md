@@ -1,10 +1,8 @@
 # `Go Scream`
 
-![Production Deployment](https://img.shields.io/github/deployments/lukeocodes/go-scream/production?logo=railway&label=production)
-![GitHub top language](https://img.shields.io/github/languages/top/lukeocodes/go-scream?logo=go&label=%20&labelColor=black)
+A Go app that posts random AI headlines (with photos) to Bluesky, but changes them to Al. [See it in action](https://bsky.app/profile/al-news.plutor.org)
 
-
-A minimal Go app that will generate a random scream and post it to Bluesky Social. [See it in action](https://bsky.app/profile/endless-scream.bsky.social)
+Thanks to [lukeocodes' go-scream](https://github.com/lukeocodes/go-scream) for being a perfect intro to the atproto API.
 
 ## Configuration
 
