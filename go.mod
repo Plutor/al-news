@@ -1,4 +1,4 @@
-module github.com/lukeocodes/go-scream
+module github.com/plutor/al-news
 
 go 1.22.0
 
